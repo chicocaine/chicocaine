@@ -1,12 +1,14 @@
 ## Hello!
 I'm still trying to figure out what works for me.
 - 🙃 Currently interested in trying:
-  --> CTF
-  --> Game Dev
-  --> AI
+  -- CTF
+  -- Game Dev
+  -- AI
 - 🌱 I’m currently learning:
-  --> Java (as required by our school)
-  --> c++ and c#
+  -- Java (as required by our school)
+  -- HTML and css (tailwind)
+  -- PHP and Javascript
+  -- c++ and c#
 - ⚡ Fun fact: I play and like playing osu!
 <!--
 **chicocaine/chicocaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
