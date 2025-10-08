@@ -4,7 +4,7 @@ I'm still trying to figure out what works for me.
   -- Game Dev
   -- AI
 - 🌱 I’m currently learning:
-  -- c and c#
+  -- c, c++ and c#
   -- web2 and web3
 - ⚡ Fun fact: I play and like playing osu!
 <!--
