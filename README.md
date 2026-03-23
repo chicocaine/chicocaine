@@ -1,25 +1,8 @@
-## Hello!
-I'm still trying to figure out what works for me.
-##### 🙃 Currently interested in trying:
-  - Game Dev
-  - AI
-##### 🌱 I’m currently learning:
-  - c, c++ and c#
-  - web2 and web3
-  - rust
-  - computer science
-> ⚡ Fun fact: I play and like playing osu!
-<!--
-**chicocaine/chicocaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello...
+I am a Computer Science undergraduate.
+> always learning
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently focusing on:
+- AI
+- Game Dev
+- Web Dev
